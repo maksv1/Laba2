@@ -1,0 +1,64 @@
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\bin\Debug\Laboratornaya1.exe.config
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\bin\Debug\Laboratornaya1.exe
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\bin\Debug\Laboratornaya1.pdb
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.AssemblyReference.cache
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\MainWindow.g.cs
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\App.g.cs
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1_MarkupCompile.cache
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1_MarkupCompile.lref
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\MainWindow.baml
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.g.resources
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.Properties.Resources.resources
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.GenerateResource.cache
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.exe
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.pdb
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\bin\Debug\EntityFramework.dll
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\bin\Debug\EntityFramework.xml
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1_Content.g.cs
+C:\Users\Maks\source\repos\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.CopyComplete
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.AssemblyReference.cache
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\App.g.cs
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1_MarkupCompile.cache
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.exe
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.pdb
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\Laboratornaya1.exe.config
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\Laboratornaya1.exe
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\Laboratornaya1.pdb
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\EntityFramework.dll
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\EntityFramework.xml
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\MainWindow.g.cs
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1_MarkupCompile.lref
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\MainWindow.baml
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.g.resources
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.Properties.Resources.resources
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.GenerateResource.cache
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.CopyComplete
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\Laboratornaya1.exe.config
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\Laboratornaya1.exe
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\Laboratornaya1.pdb
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\EntityFramework.dll
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\EntityFramework.xml
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.AssemblyReference.cache
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\MainWindow.g.cs
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\App.g.cs
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1_MarkupCompile.cache
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1_MarkupCompile.lref
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\MainWindow.baml
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.g.resources
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.Properties.Resources.resources
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.GenerateResource.cache
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.CopyComplete
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.exe
+C:\Users\Maks\source\repos\Учебная практика\Laba1\Laboratornaya1 DataSet\Laboratornaya1\obj\Debug\Laboratornaya1.pdb
